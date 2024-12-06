@@ -1,0 +1,35 @@
+[
+  {
+    "name": "XYZ",
+    "address": "Ryan Place, Mississauga, Ontario L5C 1J6, Canada",
+    "unitNumber": "145",
+    "postalCode": "L5C 1J6",
+    "latitude": "43.553832",
+    "longitude": "-79.654697",
+    "telephone": "416-829-6993",
+    "extension": "1234",
+    "email": "geovac@icloud.com",
+    "tags": [
+      "Wills & Estates",
+      "Litigation"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  },
+  {
+    "name": "NewCo",
+    "address": "95 Queen Street South, Mississauga, Ontario L5M 1K7, Canada",
+    "unitNumber": "B",
+    "postalCode": "L5M 1K7",
+    "latitude": "43.584593",
+    "longitude": "-79.71711",
+    "telephone": "344-567-8765",
+    "extension": "44",
+    "email": "test@test.com",
+    "tags": [
+      "Wills & Estates",
+      "Real Estate Law",
+      "Corporate and Commercial Law"
+    ],
+    "image": "https://static1.squarespace.com/static/6565fcef97ae3b79a1ed1d92/t/67537224134ec168f649cf9b/1733521956403/Ali+%26+Demek.jpg"
+  }
+]
